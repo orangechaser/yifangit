@@ -6,4 +6,5 @@
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Git is a free software.\
-Git is a good version control system. }
+Git is a good version control system.
+Git has amutable index called stage. }
