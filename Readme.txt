@@ -8,4 +8,4 @@
 \f0\fs24 \cf0 Git is a free software.\
 Git is a good version control system.
 Git has amutable index called stage.
-Git track changes. }
+Git track changes of files. }
